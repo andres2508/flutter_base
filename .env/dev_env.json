@@ -1,0 +1,7 @@
+{
+  "client_id": "6hoen.kfkl8tr2jooejst1dxfa@localhost",
+  "client_secret": "D53p3s5fCWlwFZQK2Wqt89ElA7I9QoHm",
+  "server": "https://ggce-api1.alliance.cgiar.org",
+  "redirect_url": "org.cgiar.ciat.location.reservation://demoapp/oauth2redirect",
+  "genesys_url": "https://www.genesys-pgr.org/"
+}
